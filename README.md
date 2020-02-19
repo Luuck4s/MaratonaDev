@@ -16,7 +16,11 @@ Você precisa clonar o repositório e pode fazer isso digitando em seu terminal 
 
 ### Executar :satellite:
 
-Logo após entrar na pasta `$ cd MaratonaDev`, entrar na pasta do servidor `$ cd server` e executar `$ yarn run start` ou `$ npm start`, se tudo ocorreu como esperado só acessar a no navegador `localhost:3000/` que o projeto já estará funcionando.
+1. entrar na pasta `$ cd MaratonaDev`
+2. entrar na pasta do servidor `$ cd server`
+3. executar `npm install` ou `yarn install` 
+4. executar `$ yarn run start` ou `$ npm start`
+5. se tudo ocorreu como esperado só acessar a no navegador `localhost:3000/` que o projeto já estará funcionando.
 
 ## Tecnologias Utilizadas :mag:
 
