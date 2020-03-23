@@ -4,9 +4,9 @@ O projeto da maratonaDev foi construir uma aplicação Web para conscientizaçã
 
 > Preview Web
 
-<img  src="https://github.com/Luuck4s/MaratonaDev/blob/master/.github/home-screen.png?raw=true" />
+<img  src="https://github.com/Luuck4s/Doe/blob/master/.github/home-screen.png?raw=true" />
 
-<img  src="https://github.com/Luuck4s/MaratonaDev/blob/master/.github/home_screen_form.png?raw=true" />
+<img  src="https://github.com/Luuck4s/Doe/blob/master/.github/home_screen_form.png?raw=true" />
 
 # Instruções para utilização :hammer:
 
